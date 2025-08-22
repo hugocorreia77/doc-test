@@ -4,4 +4,4 @@ layout: default
 parent: Conceitos
 ---
 
-# Multi Tenant
+# Multi-Tenancy
