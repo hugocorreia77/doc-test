@@ -25,5 +25,7 @@ just_the_docs:
       nav_fold: true
     concepts:
       name: Conceitos
+      nav_fold: true
     functional:
       name: Funcional
+      nav_fold: true
