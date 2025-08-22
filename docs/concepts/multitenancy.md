@@ -1,5 +1,5 @@
 ---
-title: MultiTenant
+title: Multi-Tenancy
 layout: default
 parent: Conceitos
 ---
