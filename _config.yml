@@ -22,6 +22,7 @@ just_the_docs:
     # Reference the "tests" collection
     architecture:
       name: Arquitetura
+      nav_fold: true
     concepts:
       name: Conceitos
     functional:
