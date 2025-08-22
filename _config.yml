@@ -3,29 +3,29 @@ description: Esta documentação é do projeto PMLi
 theme: just-the-docs
 url: https://hugocorreia77.github.io/doc-test/
 
-collections:
+#collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
-  architecture:
-    permalink: "/:collection/:path/"
-    output: true
-  concepts:
-    permalink: "/:collection/:path/"
-    output: true
-  functional:
-    permalink: "/:collection/:path/"
-    output: true
+  #architecture:
+    #permalink: "/:collection/:path/"
+    #output: true
+  #concepts:
+    #permalink: "/:collection/:path/"
+    #output: true
+  #functional:
+    #permalink: "/:collection/:path/"
+    #output: true
 
 
-just_the_docs:
+#just_the_docs:
   # Define which collections are used in just-the-docs
-  collections:
+  #collections:
     # Reference the "tests" collection
-    concepts:
-      name: Conceitos
-      nav_fold: true
-    architecture:
-      name: Arquitetura
-      nav_fold: true
-    functional:
-      name: Funcional
-      nav_fold: true
+    #concepts:
+      #name: Conceitos
+      #nav_fold: true
+    #architecture:
+      #name: Arquitetura
+      #nav_fold: true
+    #functional:
+      #name: Funcional
+      #nav_fold: true

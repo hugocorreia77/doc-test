@@ -1,5 +1,5 @@
 ---
-title: Início
+title: Arquitetura
 layout: default
 nav_order: 1
 ---
