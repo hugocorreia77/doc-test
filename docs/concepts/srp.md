@@ -4,5 +4,5 @@ layout: default
 parent: Conceitos
 ---
 
-# 📘 Single Responsability Principle
+# 🔔 Single Responsability Principle
 

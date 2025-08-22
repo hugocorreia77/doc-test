@@ -12,6 +12,6 @@ gh_edit_link: true
 gh_edit_link_text: "Editar a página no GitHub."
 gh_edit_repository: "https://github.com/sonaemc-instore/pml-fw-docs" 
 
-sass:
-  style: compressed
-  custom_css: assets/css/custom.css
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
