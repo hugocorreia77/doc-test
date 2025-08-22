@@ -2,7 +2,7 @@
 title: Shift-to-the-Left
 layout: default
 parent: Conceitos
-permalink: /docs/concepts/
+permalink: /docs/concepts/shift-to-the-left/
 ---
 
 # 📘 Shift-to-the-Left
