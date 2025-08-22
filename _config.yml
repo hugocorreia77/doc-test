@@ -75,6 +75,5 @@ just_the_docs:
       name: Funcional
 
 plugins:
-  - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap    
