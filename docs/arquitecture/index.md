@@ -1,7 +1,7 @@
 ---
 title: Arquitetura
 layout: default
-nav_order: 1
+nav_order: 3
 ---
 
 # Index da arquitetura
