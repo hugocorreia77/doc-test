@@ -25,7 +25,6 @@ just_the_docs:
       nav_fold: true
     architecture:
       name: Arquitetura
-      nav_fold: true
     functional:
       name: Funcional
       nav_fold: true
