@@ -2,3 +2,10 @@ title: PMLi
 description: Esta documentação é do projeto PMLi
 theme: just-the-docs
 url: https://hugocorreia77.github.io/doc-test/
+
+defaults:
+  - scope:
+      path: "_docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
