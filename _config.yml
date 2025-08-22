@@ -76,4 +76,3 @@ just_the_docs:
 
 plugins:
   - jekyll-include-cache
-  - jekyll-sitemap    
