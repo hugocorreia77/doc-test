@@ -1,6 +1,7 @@
 ---
-title: "Meu primeiro tutorial"
+title: Início
 layout: default
+nav_order: 1
 ---
 
 # Index da arquitetura

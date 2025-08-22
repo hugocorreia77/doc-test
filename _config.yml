@@ -20,11 +20,11 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "tests" collection
-    architecture:
-      name: Arquitetura
-      nav_fold: true
     concepts:
       name: Conceitos
+      nav_fold: true
+    architecture:
+      name: Arquitetura
       nav_fold: true
     functional:
       name: Funcional
