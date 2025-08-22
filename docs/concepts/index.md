@@ -10,7 +10,7 @@ Aqui podes encontrar os conceitos chave que são os pilares do desenvolvimento n
 
 <div class="grid grid-cols-3 gap-4">
   <div class="card">
-    <h3>👈 <a href="./shift-to-the-left.html">Shift-to-the-left</a></h3>
+    <h3>👈 [Shift-to-the-left](./shift-to-the-left.html)</h3>
     <p>Explora aqui o conceito shift-to-the-left</p>
   </div>
   <div class="card">
