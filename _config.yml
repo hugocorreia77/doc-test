@@ -3,29 +3,11 @@ description: Esta documentação é do projeto PMLi
 theme: just-the-docs
 url: https://hugocorreia77.github.io/doc-test/
 
-#collections:
-  # Define a collection named "tests", its documents reside in the "_tests" directory
-  #architecture:
-    #permalink: "/:collection/:path/"
-    #output: true
-  #concepts:
-    #permalink: "/:collection/:path/"
-    #output: true
-  #functional:
-    #permalink: "/:collection/:path/"
-    #output: true
+footer_content: "Copyright &copy; 2025 Sonae - MCDigital"
 
+last_edit_timestamp: true 
+last_edit_time_format: "%b %e %Y at %I:%M %p" 
 
-#just_the_docs:
-  # Define which collections are used in just-the-docs
-  #collections:
-    # Reference the "tests" collection
-    #concepts:
-      #name: Conceitos
-      #nav_fold: true
-    #architecture:
-      #name: Arquitetura
-      #nav_fold: true
-    #functional:
-      #name: Funcional
-      #nav_fold: true
+gh_edit_link: true 
+gh_edit_link_text: "Editar a página no GitHub."
+gh_edit_repository: "https://github.com/sonaemc-instore/pml-fw-docs" 

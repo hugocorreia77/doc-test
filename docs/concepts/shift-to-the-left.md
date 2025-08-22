@@ -6,8 +6,6 @@ parent: Conceitos
 
 # 📘 Shift-to-the-Left
 
-## Visão Geral
-
 **Shift-to-the-left** é uma abordagem estratégica que visa antecipar atividades críticas no ciclo de desenvolvimento de software — como testes, segurança e validação — para fases mais iniciais do processo. O objetivo é detectar e resolver problemas o mais cedo possível, reduzindo riscos, custos e refactors.
 
 ---
