@@ -5,7 +5,7 @@ url: https://sonaemc-instore.github.io/pml-fw-docs
 
 collections:
   architecture:
-    permalink: "/:collection/:path/"
+    permalink: /:collection/:path/
     output: true
  
 just_the_docs:
