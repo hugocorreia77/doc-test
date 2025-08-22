@@ -10,18 +10,17 @@ Aqui podes encontrar os conceitos chave que são os pilares do desenvolvimento n
 
 <div class="grid grid-cols-3 gap-4">
   <div class="card">
-    <h3><a href="/shift-to-the-left/">Shift-to-the-left</a></h3>
+    <h3><a href="/shift-to-the-left.html">👈 Shift-to-the-left</a></h3>
     <p>Explora aqui o conceito shift-to-the-left</p>
   </div>
-
   <div class="card">
-    <h3><a href="/teste/">Teste</a></h3>
-    <p>Guia para configurar o ambiente e dependências.</p>
+    <h3><a href="/srp.html">🔔 SRP - Single Responsibility Principle</a></h3>
+    <p>Relembra o Príncipio da Responsabilidade Única</p>
   </div>
 
   <div class="card">
-    <h3><a href="/seguranca/">Segurança</a></h3>
-    <p>Práticas recomendadas para proteger o sistema.</p>
+    <h3><a href="/multitenant.html">📦 Multi-Tenancy</a></h3>
+    <p>Sabes o que é uma aplicação multi-tenant? Explora aqui!</p>
   </div>
 
 </div>
