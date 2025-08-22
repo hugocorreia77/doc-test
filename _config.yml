@@ -1,44 +1,17 @@
 title: PMLi
 description: Esta documentação é do projeto PMLi
 theme: just-the-docs
-
 url: https://sonaemc-instore.github.io/pml-fw-docs
-
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-
-nav_enabled: true
-heading_anchors: true
-
-footer_content: "Copyright &copy; 2025 Sonae - MCDigital"
-last_edit_timestamp: true 
-last_edit_time_format: "%b %e %Y at %I:%M %p" 
-gh_edit_link: true 
-gh_edit_link_text: "Editar a página no GitHub."
-gh_edit_repository: "https://github.com/sonaemc-instore/pml-fw-docs" 
-
 
 collections:
   architecture:
     permalink: "/:collection/:path/"
     output: true
-  concepts:
-    permalink: "/:collection/:path/"
-    output: true
-  functional:
-    permalink: "/:collection/:path/"
-    output: true
+ 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "tests" collection
     architecture:
       name: Arquitetura
-    concepts:
-      name: Conceitos
-    functional:
-      name: Funcional
-
-plugins:
-  - jekyll-include-cache
+ 
