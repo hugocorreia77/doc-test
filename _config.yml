@@ -3,6 +3,10 @@ description: Esta documentação é do projeto PMLi
 theme: just-the-docs
 url: https://sonaemc-instore.github.io/pml-fw-docs
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      
 collections:
   architecture:
     permalink: /:collection/:path/
